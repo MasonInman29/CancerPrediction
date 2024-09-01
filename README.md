@@ -27,5 +27,11 @@ The dataset `Cancer_Data.csv` contains the following key columns:
 The data was sourced from: [Kaggle Cancer Data](https://www.kaggle.com/datasets/erdemtaha/cancer-data?resource=download) and is placed in the `./data/` directory, but not pushed to the repo due to the size of the file.
 
 ## Graphs, Data, and Predictions
-- Distribution Graph
 ![Model](https://github.com/MasonInman29/CancerPrediction/blob/main/graphs/diagnosis_distribution.png?raw=true)
+Prediction Results
+![Model](https://github.com/MasonInman29/CancerPrediction/blob/main/graphs/confusionMatrixLR.png?raw=true)
+![Model](https://github.com/MasonInman29/CancerPrediction/blob/main/graphs/confusionMatrixRF.png?raw=true)
+
+Receiver Operating Characteristic (ROC) Curve:
+![Model](https://github.com/MasonInman29/CancerPrediction/blob/main/graphs/ROC_curve.png?raw=true)
+
