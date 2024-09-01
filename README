@@ -30,7 +30,8 @@ The dataset `Cancer_Data.csv` contains the following key columns:
 - `diagnosis`: The target variable, indicating whether the cancer is malignant or benign.
 - `radius_mean`, `texture_mean`, `perimeter_mean`, `area_mean`, etc.: Features related to the physical characteristics of the cell nuclei.
 
-The data was sourced from: https://www.kaggle.com/datasets/erdemtaha/cancer-data?resource=download and placed in ./data/ directory, but not pushed to the repo due to the size of the file.
+The data was sourced from: [Kaggle Cancer Data](https://www.kaggle.com/datasets/erdemtaha/cancer-data?resource=download) and is placed in the `./data/` directory, but not pushed to the repo due to the size of the file.
+
 ## Requirements
 
 To run this project, you'll need to install the following Python packages:
