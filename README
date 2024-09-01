@@ -37,4 +37,4 @@ The data was sourced from: [Kaggle Cancer Data](https://www.kaggle.com/datasets/
 To run this project, you'll need to install the following Python packages:
 
 ```bash
-pip install pandas numpy matplotlib seaborn scikit-learn
+pip install pandas numpy matplotlib seaborn scikit-learn'''
