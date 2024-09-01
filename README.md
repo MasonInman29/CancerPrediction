@@ -30,9 +30,11 @@ The data was sourced from: [Kaggle Cancer Data](https://www.kaggle.com/datasets/
 ![Model](https://github.com/MasonInman29/CancerPrediction/blob/main/graphs/diagnosis_distribution.png?raw=true)
 
 Prediction Results
+
 ![Model](https://github.com/MasonInman29/CancerPrediction/blob/main/graphs/confusionMatrixLR.png?raw=true)
 ![Model](https://github.com/MasonInman29/CancerPrediction/blob/main/graphs/confusionMatrixRF.png?raw=true)
 
 Receiver Operating Characteristic (ROC) Curve:
+
 ![Model](https://github.com/MasonInman29/CancerPrediction/blob/main/graphs/ROC_curve.png?raw=true)
 
