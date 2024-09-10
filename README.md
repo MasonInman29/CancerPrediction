@@ -5,13 +5,7 @@ This project is designed to analyze and classify cancer data using machine learn
 ## Table of Contents
 - [Project Overview](#project-overview)
 - [Data Description](#data-description)
-- [Requirements](#requirements)
-- [Project Structure](#project-structure)
-- [Data Preprocessing](#data-preprocessing)
-- [Modeling](#modeling)
-- [Usage](#usage)
-- [Results](#results)
-- [Acknowledgments](#acknowledgments)
+- [Graphs, Data, and  Predictions](#graphs,-data,-and-predictions)
 
 ## Project Overview
 
@@ -32,9 +26,15 @@ The dataset `Cancer_Data.csv` contains the following key columns:
 
 The data was sourced from: [Kaggle Cancer Data](https://www.kaggle.com/datasets/erdemtaha/cancer-data?resource=download) and is placed in the `./data/` directory, but not pushed to the repo due to the size of the file.
 
-## Requirements
+## Graphs, Data, and Predictions
+![Model](https://github.com/MasonInman29/CancerPrediction/blob/main/graphs/diagnosis_distribution.png?raw=true)
 
-To run this project, you'll need to install the following Python packages:
+Prediction Results
 
-```bash
-pip install pandas numpy matplotlib seaborn scikit-learn'''
+![Model](https://github.com/MasonInman29/CancerPrediction/blob/main/graphs/confusionMatrixLR.png?raw=true)
+![Model](https://github.com/MasonInman29/CancerPrediction/blob/main/graphs/confusionMatrixRF.png?raw=true)
+
+Receiver Operating Characteristic (ROC) Curve:
+
+![Model](https://github.com/MasonInman29/CancerPrediction/blob/main/graphs/ROC_curve.png?raw=true)
+
